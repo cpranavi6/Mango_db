@@ -1,0 +1,27 @@
+db.mentors.insertMany([
+    {
+        mentorid: 1,
+        mentorname: "mentor1",
+        mentor_email: "mentor1@gmail.com",
+    },
+    {
+        mentorid: 2,
+        mentorname: "mentor2",
+        mentor_email: "mentor2@gmail.com",
+    },
+    {
+        mentorid: 3,
+        mentorname: "mentor3",
+        mentor_email: "mentor3@gmail.com",
+    },
+    {
+        mentorid: 4,
+        mentorname: "mentor4",
+        mentor_email: "mentor4@gmail.com",
+    },
+    {
+        mentorid: 5,
+        mentorname: "mentor5",
+        mentor_email: "mentor5@gmail.com",
+    },
+]);
